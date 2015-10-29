@@ -1,3 +1,8 @@
 <?php
-echo 'helloworld';
+echo 'helloworld';//echo
+
+
+
+ $msg = "Github";
+ echo 'hello'.$msg;
 ?>
